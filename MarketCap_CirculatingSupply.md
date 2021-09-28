@@ -36,10 +36,7 @@
 * **GRT**
 	* The graph's issuance is done progressively, with 47% currently in circulation. 
 	* The fully diluted market cap at the current price is $6.9B.
-	* Recall that
-$$
-\text{Market cap = circulating supply} \times \text{token price} 
-$$
+		* Recall that Market cap = circulating supply * token price.
 	* However, if the remaining 53% of the max supply is dumped on the market today, we would not reach the 6.9B market cap. 
 	* Instead, we'd see the price of the GRT token divide by ~2, because we've increase the supply without increasing the demand. 
 		* As more of the token is introduced, the price inevitably dilutes as no value is being added to the project in the form of new investments. 
