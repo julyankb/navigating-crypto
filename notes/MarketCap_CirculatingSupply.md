@@ -38,4 +38,4 @@
 	* The fully diluted market cap at the current price is $6.9B.
 		* Recall that Market cap = circulating supply * token price.
 	* However, if the remaining 53% of the max supply is dumped on the market today, we would not reach the 6.9B market cap. 
-	* Instead, we'd see the price of the GRT token divide by ~2, because we've increase the supply without increasing the demand. 
+	* Instead, we'd see the price of the GRT token divide by ~2, because we've increased the supply without increasing the demand. 
